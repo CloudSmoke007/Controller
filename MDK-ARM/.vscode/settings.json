@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "crc8_crc16.h": "c",
+        "senddatatask.h": "c",
+        "imu_task.h": "c",
+        "ist8310driver.h": "c",
+        "bsp_delay.h": "c"
+    }
+}
